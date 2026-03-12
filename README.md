@@ -100,14 +100,6 @@ The Power BI dashboard includes:
 * Movie Duration Distribution
 * TV Show Season Distribution
 
----
-
-## Dashboard Preview
-
-![Dashboard](images/dashboard_preview.png)
-
----
-
 ## Project Structure
 
 netflix-content-analysis
